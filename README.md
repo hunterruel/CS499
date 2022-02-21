@@ -60,11 +60,11 @@ This artifact is a simple calculator that was originally created to do mathemati
 
 **Narrative**<br/>
 
-This artifact consists of data that was developed from 500 customers in Bubba Gump sales. The customer data that was gathered from each customer consists of customer age, gender, city, state, zip code, and income. This sample data set from Bubba Gump sales is from course DAT220 Fundamentals of Data Mining (21EW3). I selected this item for Category Three: Databases because it encapsulates the concepts of databases and showcases my skills in data mining. The goal of enhancing this artifact is to data mine the statistics of Bubba Gump to find superior data that is more effective and significant for the company to increase their sales and pinpoint which customers they will be able to target in the future. During the analysis of data mining Bubba Gump's customer information, I met the objectives of the enhancement by finding out key information on the customers of which to target in the future for Bubba Gump's maximum marketing ability. While learning how to data mine more effienctly, I ran into a few challenges such as knowing what key factors to look for in the data set. Throughout finding key factors, I learned to sort the data based on the customer's age, how much was spent on purchases, and what the customers income was to decide what would be the most critical information to the company.
+This artifact consists of data that was developed from 500 customers in Bubba Gump sales. The customer data that was gathered from each customer consists of customer age, gender, city, state, zip code, and income. This sample data set from Bubba Gump sales is from course DAT220 Fundamentals of Data Mining (21EW3). I selected this item for Category Three: Databases because it encapsulates the concepts of databases and showcases my skills in data mining. The goal of enhancing this artifact is to data mine the statistics of Bubba Gump to find superior data that is more effective and significant for the company to increase their sales and pinpoint which customers they will be able to target in the future. During the analysis of data mining Bubba Gump's customer information, I met the objectives of the enhancement by finding out key information on the customers of which to target in the future for Bubba Gump's maximum marketing ability. While learning how to data mine more effienctly, I ran into a few challenges such as knowing what key factors to look for in the data set. Throughout finding key factors, I learned to sort the data based on the customer's age, how much was spent on purchases, and what the customers income was to decide what would be the most critical data mining information to the company.
 
 **Code Review**<br/>
 
-
+https://youtu.be/L0WvqafLCTg<br/><br/>
 
 **References**<br/>
 
@@ -72,4 +72,6 @@ CALCGIF on make a GIF. MakeAGif. (n.d.). Retrieved February 21, 2022, from https
 
 Company, B. (n.d.). Screen recording software: Capture anything on your PC screen - bandicam. Bandicam Screen Recorder. Retrieved February 21, 2022, from https://www.bandicam.com/ <br/>
 
-16 data mining techniques: The complete list. Talend. (n.d.). Retrieved February 21, 2022, from https://www.talend.com/resources/data-mining-techniques/
+16 data mining techniques: The complete list. Talend. (n.d.). Retrieved February 21, 2022, from https://www.talend.com/resources/data-mining-techniques/ <br/>
+
+YouTube. (n.d.). YouTube. Retrieved February 21, 2022, from https://www.youtube.com/
