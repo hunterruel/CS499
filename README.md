@@ -74,4 +74,6 @@ Company, B. (n.d.). Screen recording software: Capture anything on your PC scree
 
 16 data mining techniques: The complete list. Talend. (n.d.). Retrieved February 21, 2022, from https://www.talend.com/resources/data-mining-techniques/ <br/>
 
-YouTube. (n.d.). YouTube. Retrieved February 21, 2022, from https://www.youtube.com/
+YouTube. (n.d.). YouTube. Retrieved February 21, 2022, from https://www.youtube.com/<br/>
+
+Southern New Hampshire University. (2022). CS 499 Final Project Guidelines and Rubric.. https://learn.snhu.edu/content/enforced/966117-CS-499-T3725-OL-TRAD-UG.22EW3/Course%20Documents/CS%20499%20Final%20Project%20Guidelines%20and%20Rubric.pdf
